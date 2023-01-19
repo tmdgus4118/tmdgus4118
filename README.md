@@ -18,6 +18,7 @@ Recently, I am try to study Typescript, Python , Next.js
   
   
   🖥 My Tech 🖥
+  <br>
   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tmdgus4118&show_icons=true&theme=radical)
