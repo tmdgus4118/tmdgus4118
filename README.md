@@ -20,7 +20,6 @@ Recently, I am try to study Typescript, Python , Nest.js
   🖥 My Tech 🖥
   <br>
   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tmdgus4118&show_icons=true&theme=radical)
   ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
   ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
   ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
@@ -43,4 +42,5 @@ Recently, I am try to study Typescript, Python , Nest.js
 
 
 </div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tmdgus4118&show_icons=true&theme=radical)
 <a href="https://velog.io/@tmdgus4118"><img src="https://img.shields.io/badge/velog-1DBF73?style=flat-square&logo=Vimeo&logoColor=white"/></a>
