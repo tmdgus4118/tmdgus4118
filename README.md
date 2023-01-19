@@ -6,7 +6,9 @@
 ### Hi there 👋
 
 -🔭I do study to be a better Back-End developer-
+    <br>
 -🌱 I currently learn about TypeScript and Nest.js-
+    <br>
 -📫 How to reach me: email:tmdgus4118@naver.com-
 
 I live in Seoul, Korea,  27 years old, born in 1997. I like to learn new Tech.
