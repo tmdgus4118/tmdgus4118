@@ -9,3 +9,5 @@ I am live in Seoul, Korea
 My age is 27 years old,1997.
 I like to learn and get new tech
 
+Recently, I am try to study Typescript, Python , Next.js
+
