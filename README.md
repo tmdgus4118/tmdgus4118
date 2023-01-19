@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Won-Seung-Hyun/rect&height=200&text=Stroke%20Test&fontAlign=70&stroke=00FF00)
+![header](https://capsule-render.vercel.app/api?type=rect&height=200&text=Won-Seung-Hyun%20Test&fontAlign=70&stroke=00FF00)
 
 ### Hi there 👋
 
