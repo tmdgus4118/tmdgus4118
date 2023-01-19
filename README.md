@@ -38,8 +38,9 @@ Recently, I am try to study Typescript, Python , Nest.js
 
 
 
-<a href="https://velog.io/@tmdgus4118"><img src="https://img.shields.io/badge/velog-1DBF73?style=flat-square&logo=Vimeo&logoColor=white"/></a>
+
 
 
 
 </div>
+<a href="https://velog.io/@tmdgus4118"><img src="https://img.shields.io/badge/velog-1DBF73?style=flat-square&logo=Vimeo&logoColor=white"/></a>
