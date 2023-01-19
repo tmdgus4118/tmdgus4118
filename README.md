@@ -10,7 +10,7 @@
 - 📫 How to reach me:
   email:tmdgus4118@naver.com
 
-I am live in Seoul, Korea
+I am live in Seoul, Korea.
 My age is 27 years old,1997.
 I like to learn and get new tech
 
