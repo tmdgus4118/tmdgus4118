@@ -39,7 +39,7 @@ Recently, I am try to study Typescript, Python , Nest.js
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tmdgus4118&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tmdgus4118&show_icons=true&theme=radical) <br>
 <a href="https://velog.io/@tmdgus4118"><img src="https://img.shields.io/badge/velog-1DBF73?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 </div>
 
