@@ -13,8 +13,6 @@
 
 I live in Seoul, Korea,  27 years old, born in 1997. I like to learn new Tech.
 
-Recently, I try to study Typescript, Python , Nest.js
-
   <br>
     <br>
     <br>
